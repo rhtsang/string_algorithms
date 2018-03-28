@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/TwoAlgorithmVerificationSanityCheck.dir/TwoAlgorithmVerificationSanityCheck.cpp.o  -o TwoAlgorithmVerificationSanityCheck  -L/gtest/mybuild -rdynamic -lgtest -lpthread libZalgorithmLib.a libBoyerMoorePreprocessingLib.a libBoyerMooreLib.a -Wl,-rpath,/gtest/mybuild 

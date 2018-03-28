@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/BoyerMooreSanityCheck.dir/BoyerMooreSanityCheck.cpp.o  -o BoyerMooreSanityCheck  -L/gtest/mybuild -rdynamic -lgtest -lpthread libBoyerMooreLib.a libBoyerMoorePreprocessingLib.a -Wl,-rpath,/gtest/mybuild 

@@ -1,0 +1,2 @@
+/usr/bin/ar qc libBoyerMooreLib.a  CMakeFiles/BoyerMooreLib.dir/BoyerMoore.cpp.o CMakeFiles/BoyerMooreLib.dir/BoyerMoorePreprocessing.cpp.o
+/usr/bin/ranlib libBoyerMooreLib.a
